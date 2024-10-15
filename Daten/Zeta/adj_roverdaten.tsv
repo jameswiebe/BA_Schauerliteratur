@@ -1,0 +1,548 @@
+input1	synset1ID	synset1Cat	synset1Class	synset1Hypernyms	input2	synset2ID	synset2Cat	synset2Class	synset2Hypernyms	SimplePath	LeacockAndChodorow	WuAndPalmer	Resnik	Lin	JiangAndConrath
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	0.6	0.2783	0.0	0.0	0.0	0.55322
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	0.5	0.21239	0.0	0.0	0.0	0.53067
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	0.55	0.2437	0.0	0.0	0.0	0.60917
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	0.55	0.2437	0.18182	0.15814	0.38255	0.74476
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	0.65	0.31699	0.0	0.0	0.0	0.60381
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	0.7	0.36085	0.25	0.15814	0.4648	0.81791
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	scheu	4738.0	adj	Verhalten	[charakterspezifisch]	0.7	0.36085	0.0	0.0	0.0	0.59881
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	scheu	96734.0	adj	Verhalten	[tierspezifisch]	0.7	0.36085	0.0	0.0	0.0	0.53033
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	scheu	4738.0	adj	Verhalten	[charakterspezifisch]	0.65	0.31699	0.0	0.0	0.0	0.65476
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	scheu	96734.0	adj	Verhalten	[tierspezifisch]	0.65	0.31699	0.0	0.0	0.0	0.58629
+einsam					f�rchterlich										
+einsam					raub										
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	0.65	0.31699	0.0	0.0	0.0	0.60282
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	0.6	0.2783	0.0	0.0	0.0	0.65878
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	0.65	0.31699	0.0	0.0	0.0	0.55609
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	eiskalt	4450.0	adj	Substanz	[kalt]	0.65	0.31699	0.0	0.0	0.0	0.55618
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	0.8	0.47137	0.5	0.19055	0.49115	0.80259
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	eiskalt	4450.0	adj	Substanz	[kalt]	0.6	0.2783	0.0	0.0	0.0	0.61213
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	schrecklich	107140.0	adj	Gefuehl	[unangenehm]	0.65	0.31699	0.0	0.0	0.0	0.56734
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	0.6	0.2783	0.0	0.0	0.0	0.56736
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	schrecklich	107140.0	adj	Gefuehl	[unangenehm]	0.7	0.36085	0.25	0.15814	0.4198	0.78144
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	0.65	0.31699	0.22222	0.15814	0.41981	0.78145
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.7	0.36085	0.0	0.0	0.0	0.5664
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.85	0.54466	0.57143	0.19055	0.50457	0.8129
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.7	0.36085	0.0	0.0	0.0	0.55325
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.6	0.2783	0.0	0.0	0.0	0.44792
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.65	0.31699	0.0	0.0	0.0	0.6092
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.85	0.54466	0.66667	0.28806	0.58063	0.79194
+einsam					b�s										
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.65	0.31699	0.0	0.0	0.0	0.60155
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.65	0.31699	0.0	0.0	0.0	0.57566
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.7	0.36085	0.0	0.0	0.0	0.61668
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.6	0.2783	0.0	0.0	0.0	0.6575
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.8	0.47137	0.5	0.19055	0.51725	0.82217
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.75	0.41148	0.28571	0.15814	0.48307	0.83078
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.65	0.31699	0.0	0.0	0.0	0.6016
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.65	0.31699	0.0	0.0	0.0	0.54591
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	finster	3022.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.57134
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.6	0.2783	0.0	0.0	0.0	0.60534
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.6	0.2783	0.0	0.0	0.0	0.65755
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.6	0.2783	0.2	0.15814	0.3972	0.76
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	finster	3022.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.62729
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.65	0.31699	0.22222	0.15814	0.46689	0.81943
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.55	0.2437	0.0	0.0	0.0	0.5455
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.6	0.2783	0.2	0.15814	0.39679	0.75959
+einsam					d�ster										
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	grausam	704.0	adj	Gefuehl	[peinigend]	0.65	0.31699	0.0	0.0	0.0	0.55981
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.65	0.31699	0.0	0.0	0.0	0.58216
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	grausam	704.0	adj	Gefuehl	[peinigend]	0.7	0.36085	0.25	0.15814	0.41157	0.77391
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.6	0.2783	0.0	0.0	0.0	0.63811
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.6	0.2783	0.0	0.0	0.0	0.49508
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.6	0.2783	0.0	0.0	0.0	0.48636
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.65	0.31699	0.22222	0.15814	0.35223	0.70917
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.55	0.2437	0.0	0.0	0.0	0.54232
+einsam					gr��lich										
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	dumpf	108344.0	adj	Relation	[unklar]	0.6	0.2783	0.0	0.0	0.0	0.53268
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.65	0.31699	0.0	0.0	0.0	0.54245
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.65	0.31699	0.0	0.0	0.0	0.535
+einsam	2330.0	adj	Ort	[lokalisationsspezifisch]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.65	0.31699	0.0	0.0	0.0	0.53277
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	dumpf	108344.0	adj	Relation	[unklar]	0.55	0.2437	0.0	0.0	0.0	0.58863
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.59841
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.7	0.36085	0.25	0.15814	0.38661	0.74909
+einsam	536.0	adj	Gefuehl	[freudlos, traurig]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.58872
+einsam					gl�hend										
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	0.55	0.2437	0.0	0.0	0.0	0.57543
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	0.65	0.31699	0.36364	0.19127	0.42778	0.74415
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	scheu	4738.0	adj	Verhalten	[charakterspezifisch]	0.8	0.47137	0.5	0.13271	0.30893	0.70313
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	scheu	96734.0	adj	Verhalten	[tierspezifisch]	0.7	0.36085	0.25	0.12376	0.24849	0.62571
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	scheu	4738.0	adj	Verhalten	[charakterspezifisch]	0.5	0.21239	0.0	0.0	0.0	0.54787
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	scheu	96734.0	adj	Verhalten	[tierspezifisch]	0.5	0.21239	0.0	0.0	0.0	0.4794
+hold					f�rchterlich										
+hold					raub										
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	0.55	0.2437	0.0	0.0	0.0	0.57444
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	0.45	0.18381	0.0	0.0	0.0	0.55189
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	0.55	0.2437	0.0	0.0	0.0	0.5277
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	eiskalt	4450.0	adj	Substanz	[kalt]	0.55	0.2437	0.0	0.0	0.0	0.52779
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	0.55	0.2437	0.18182	0.15814	0.31957	0.66329
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	eiskalt	4450.0	adj	Substanz	[kalt]	0.45	0.18381	0.0	0.0	0.0	0.50524
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	schrecklich	107140.0	adj	Gefuehl	[unangenehm]	0.55	0.2437	0.0	0.0	0.0	0.53896
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	0.65	0.31699	0.36364	0.11579	0.25115	0.65476
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	schrecklich	107140.0	adj	Gefuehl	[unangenehm]	0.65	0.31699	0.36364	0.19127	0.39551	0.70768
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	0.6	0.2783	0.33333	0.19127	0.39553	0.70769
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.6	0.2783	0.0	0.0	0.0	0.53802
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.6	0.2783	0.2	0.15814	0.32637	0.67361
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.8	0.47137	0.5	0.13271	0.27931	0.65757
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.5	0.21239	0.0	0.0	0.0	0.41954
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.5	0.21239	0.0	0.0	0.0	0.50231
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.5	0.21239	0.16667	0.15814	0.26225	0.55513
+hold					b�s										
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.6	0.2783	0.2	0.07656	0.17937	0.64973
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.55	0.2437	0.0	0.0	0.0	0.54728
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.6	0.2783	0.0	0.0	0.0	0.5883
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.45	0.18381	0.0	0.0	0.0	0.55062
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.55	0.2437	0.18182	0.15814	0.33273	0.68287
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.7	0.36085	0.4	0.19127	0.44045	0.75702
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.7	0.36085	0.4	0.11579	0.2713	0.689
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.55	0.2437	0.0	0.0	0.0	0.51753
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	finster	3022.0	adj	Perzeption	[dunkel]	0.5	0.21239	0.0	0.0	0.0	0.54296
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.5	0.21239	0.0	0.0	0.0	0.57696
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.45	0.18381	0.0	0.0	0.0	0.55067
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.55	0.2437	0.30769	0.19127	0.37873	0.68624
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	finster	3022.0	adj	Perzeption	[dunkel]	0.4	0.15752	0.0	0.0	0.0	0.52041
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.6	0.2783	0.33333	0.19127	0.42924	0.74567
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.45	0.18381	0.0	0.0	0.0	0.51712
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.55	0.2437	0.30769	0.19127	0.37842	0.68583
+hold					d�ster										
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	grausam	704.0	adj	Gefuehl	[peinigend]	0.55	0.2437	0.0	0.0	0.0	0.53143
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.75	0.41148	0.44444	0.13271	0.2974	0.68648
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	grausam	704.0	adj	Gefuehl	[peinigend]	0.65	0.31699	0.36364	0.19127	0.38945	0.70015
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.45	0.18381	0.0	0.0	0.0	0.53122
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.5	0.21239	0.0	0.0	0.0	0.46669
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.65	0.31699	0.36364	0.11579	0.21362	0.57377
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.6	0.2783	0.33333	0.19127	0.34409	0.63541
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.4	0.15752	0.0	0.0	0.0	0.43543
+hold					gr��lich										
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	dumpf	108344.0	adj	Relation	[unklar]	0.5	0.21239	0.0	0.0	0.0	0.5043
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.51407
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.55	0.2437	0.0	0.0	0.0	0.50662
+hold	96585.0	adj	Verhalten	[gutgesinnt, wohlgesinnt, wohlgesonnen, wohlmeinend, wohlwollend]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.55	0.2437	0.0	0.0	0.0	0.50439
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	dumpf	108344.0	adj	Relation	[unklar]	0.4	0.15752	0.0	0.0	0.0	0.48174
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.45	0.18381	0.0	0.0	0.0	0.49152
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.65	0.31699	0.36364	0.19127	0.37072	0.67534
+hold	96331.0	adj	Gefuehl	[lieblich, liebreizend]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.45	0.18381	0.0	0.0	0.0	0.48184
+hold					gl�hend										
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	scheu	4738.0	adj	Verhalten	[charakterspezifisch]	0.65	0.31699	0.0	0.0	0.0	0.62102
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	scheu	96734.0	adj	Verhalten	[tierspezifisch]	0.65	0.31699	0.0	0.0	0.0	0.55255
+geheimnisvoll					f�rchterlich										
+geheimnisvoll					raub										
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	0.6	0.2783	0.0	0.0	0.0	0.62504
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	0.7	0.36085	0.25	0.15814	0.375	0.73644
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	eiskalt	4450.0	adj	Substanz	[kalt]	0.6	0.2783	0.0	0.0	0.0	0.57839
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	schrecklich	107140.0	adj	Gefuehl	[unangenehm]	0.8	0.47137	0.5	0.19127	0.466	0.78082
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	0.75	0.41148	0.44444	0.19127	0.46602	0.78084
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.75	0.41148	0.28571	0.15814	0.38441	0.74675
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.65	0.31699	0.0	0.0	0.0	0.57546
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.65	0.31699	0.22222	0.15814	0.29845	0.62828
+geheimnisvoll					b�s										
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.6	0.2783	0.0	0.0	0.0	0.62377
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.7	0.36085	0.25	0.15814	0.39326	0.75602
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.95	0.77233	0.85714	0.34823	0.96436	0.98713
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.6	0.2783	0.0	0.0	0.0	0.62381
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.7	0.36085	0.4	0.19127	0.44287	0.75939
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	finster	3022.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.59355
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.75	0.41148	0.44444	0.19127	0.51354	0.81882
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.7	0.36085	0.4	0.19127	0.44245	0.75898
+geheimnisvoll					d�ster										
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	grausam	704.0	adj	Gefuehl	[peinigend]	0.8	0.47137	0.5	0.19127	0.45761	0.7733
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.6	0.2783	0.0	0.0	0.0	0.60437
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.75	0.41148	0.44444	0.19127	0.39624	0.70856
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.55	0.2437	0.0	0.0	0.0	0.50858
+geheimnisvoll					gr��lich										
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	dumpf	108344.0	adj	Relation	[unklar]	0.55	0.2437	0.0	0.0	0.0	0.55489
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.56467
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.8	0.47137	0.5	0.19127	0.43197	0.74848
+geheimnisvoll	822.0	adj	Gefuehl	[seltsam]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.55498
+geheimnisvoll					gl�hend										
+scheu					f�rchterlich										
+scheu					raub										
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	0.65	0.31699	0.0	0.0	0.0	0.62003
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	0.65	0.31699	0.0	0.0	0.0	0.55155
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	0.65	0.31699	0.0	0.0	0.0	0.5733
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	eiskalt	4450.0	adj	Substanz	[kalt]	0.65	0.31699	0.0	0.0	0.0	0.57338
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	0.65	0.31699	0.0	0.0	0.0	0.50482
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	eiskalt	4450.0	adj	Substanz	[kalt]	0.65	0.31699	0.0	0.0	0.0	0.50491
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	schrecklich	107140.0	adj	Gefuehl	[unangenehm]	0.65	0.31699	0.0	0.0	0.0	0.58455
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	0.6	0.2783	0.0	0.0	0.0	0.58456
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	schrecklich	107140.0	adj	Gefuehl	[unangenehm]	0.65	0.31699	0.0	0.0	0.0	0.51607
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	0.6	0.2783	0.0	0.0	0.0	0.51609
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.7	0.36085	0.0	0.0	0.0	0.58361
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.7	0.36085	0.0	0.0	0.0	0.51513
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.9	0.63915	0.66667	0.13271	0.30895	0.70316
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.6	0.2783	0.0	0.0	0.0	0.46513
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.8	0.47137	0.33333	0.12376	0.2485	0.62574
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.6	0.2783	0.0	0.0	0.0	0.39666
+scheu					b�s										
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.65	0.31699	0.0	0.0	0.0	0.61876
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.65	0.31699	0.0	0.0	0.0	0.59287
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.7	0.36085	0.0	0.0	0.0	0.63389
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.65	0.31699	0.0	0.0	0.0	0.55028
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.65	0.31699	0.0	0.0	0.0	0.5244
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.7	0.36085	0.0	0.0	0.0	0.56542
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.65	0.31699	0.0	0.0	0.0	0.61881
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.65	0.31699	0.0	0.0	0.0	0.56312
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	finster	3022.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.58855
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.6	0.2783	0.0	0.0	0.0	0.62255
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.65	0.31699	0.0	0.0	0.0	0.55033
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.65	0.31699	0.0	0.0	0.0	0.49464
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	finster	3022.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.52007
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.6	0.2783	0.0	0.0	0.0	0.55407
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.55	0.2437	0.0	0.0	0.0	0.56271
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.55	0.2437	0.0	0.0	0.0	0.49423
+scheu					d�ster										
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	grausam	704.0	adj	Gefuehl	[peinigend]	0.65	0.31699	0.0	0.0	0.0	0.57702
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.85	0.54466	0.57143	0.13271	0.33125	0.73207
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	grausam	704.0	adj	Gefuehl	[peinigend]	0.65	0.31699	0.0	0.0	0.0	0.50855
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.75	0.41148	0.28571	0.12376	0.26382	0.65465
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.6	0.2783	0.0	0.0	0.0	0.51228
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.6	0.2783	0.0	0.0	0.0	0.50357
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.6	0.2783	0.0	0.0	0.0	0.44381
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.6	0.2783	0.0	0.0	0.0	0.43509
+scheu					gr��lich										
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	dumpf	108344.0	adj	Relation	[unklar]	0.6	0.2783	0.0	0.0	0.0	0.54989
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.65	0.31699	0.0	0.0	0.0	0.55966
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.65	0.31699	0.0	0.0	0.0	0.55221
+scheu	4738.0	adj	Verhalten	[charakterspezifisch]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.65	0.31699	0.0	0.0	0.0	0.54998
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	dumpf	108344.0	adj	Relation	[unklar]	0.6	0.2783	0.0	0.0	0.0	0.48141
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.65	0.31699	0.0	0.0	0.0	0.49119
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.65	0.31699	0.0	0.0	0.0	0.48373
+scheu	96734.0	adj	Verhalten	[tierspezifisch]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.65	0.31699	0.0	0.0	0.0	0.4815
+scheu					gl�hend										
+f�rchterlich					raub										
+f�rchterlich					heimlich										
+f�rchterlich					eiskalt										
+f�rchterlich					schrecklich										
+f�rchterlich					begierig										
+f�rchterlich					gedankenvoll										
+f�rchterlich					b�s										
+f�rchterlich					seltsam										
+f�rchterlich					finster										
+f�rchterlich					grauenvoll										
+f�rchterlich					d�ster										
+f�rchterlich					grausam										
+f�rchterlich					schauerlich										
+f�rchterlich					gr��lich										
+f�rchterlich					dumpf										
+f�rchterlich					gl�hend										
+raub					heimlich										
+raub					eiskalt										
+raub					schrecklich										
+raub					begierig										
+raub					gedankenvoll										
+raub					b�s										
+raub					seltsam										
+raub					finster										
+raub					grauenvoll										
+raub					d�ster										
+raub					grausam										
+raub					schauerlich										
+raub					gr��lich										
+raub					dumpf										
+raub					gl�hend										
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	0.6	0.2783	0.0	0.0	0.0	0.57731
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	eiskalt	4450.0	adj	Substanz	[kalt]	0.6	0.2783	0.0	0.0	0.0	0.5774
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	schrecklich	107140.0	adj	Gefuehl	[unangenehm]	0.6	0.2783	0.0	0.0	0.0	0.58856
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	0.55	0.2437	0.0	0.0	0.0	0.58858
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.65	0.31699	0.0	0.0	0.0	0.58762
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.65	0.31699	0.0	0.0	0.0	0.57447
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.55	0.2437	0.0	0.0	0.0	0.46915
+heimlich					b�s										
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.6	0.2783	0.0	0.0	0.0	0.62277
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.6	0.2783	0.0	0.0	0.0	0.59688
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.65	0.31699	0.0	0.0	0.0	0.63791
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.6	0.2783	0.0	0.0	0.0	0.62282
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.6	0.2783	0.0	0.0	0.0	0.56713
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	finster	3022.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.59256
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.55	0.2437	0.0	0.0	0.0	0.62656
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.5	0.21239	0.0	0.0	0.0	0.56672
+heimlich					d�ster										
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	grausam	704.0	adj	Gefuehl	[peinigend]	0.6	0.2783	0.0	0.0	0.0	0.58104
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.6	0.2783	0.0	0.0	0.0	0.60338
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.55	0.2437	0.0	0.0	0.0	0.5163
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.55	0.2437	0.0	0.0	0.0	0.50758
+heimlich					gr��lich										
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	dumpf	108344.0	adj	Relation	[unklar]	0.55	0.2437	0.0	0.0	0.0	0.5539
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.56368
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.6	0.2783	0.0	0.0	0.0	0.55622
+heimlich	1091.0	adj	Gesellschaft	[geheim, geheimgehalten, nicht öffentlich, nichtöffentlich]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.55399
+heimlich					gl�hend										
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	schrecklich	107140.0	adj	Gefuehl	[unangenehm]	0.7	0.36085	0.25	0.15814	0.34515	0.69997
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	0.65	0.31699	0.22222	0.15814	0.34516	0.69998
+eiskalt	4450.0	adj	Substanz	[kalt]	schrecklich	107140.0	adj	Gefuehl	[unangenehm]	0.6	0.2783	0.0	0.0	0.0	0.54192
+eiskalt	4450.0	adj	Substanz	[kalt]	schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	0.55	0.2437	0.0	0.0	0.0	0.54193
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.85	0.54466	0.57143	0.19055	0.41503	0.73144
+eiskalt	4450.0	adj	Substanz	[kalt]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.65	0.31699	0.0	0.0	0.0	0.54098
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.65	0.31699	0.0	0.0	0.0	0.52773
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.75	0.41148	0.44444	0.19055	0.3299	0.61296
+eiskalt	4450.0	adj	Substanz	[kalt]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.65	0.31699	0.0	0.0	0.0	0.52782
+eiskalt	4450.0	adj	Substanz	[kalt]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.55	0.2437	0.0	0.0	0.0	0.4225
+eiskalt					b�s										
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.6	0.2783	0.0	0.0	0.0	0.57604
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.8	0.47137	0.5	0.19055	0.42358	0.7407
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.75	0.41148	0.28571	0.15814	0.38681	0.74931
+eiskalt	4450.0	adj	Substanz	[kalt]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.6	0.2783	0.0	0.0	0.0	0.57613
+eiskalt	4450.0	adj	Substanz	[kalt]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.6	0.2783	0.0	0.0	0.0	0.55024
+eiskalt	4450.0	adj	Substanz	[kalt]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.65	0.31699	0.0	0.0	0.0	0.59126
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.6	0.2783	0.0	0.0	0.0	0.57609
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.6	0.2783	0.2	0.15814	0.32973	0.67853
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	finster	3022.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.54583
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.65	0.31699	0.22222	0.15814	0.37636	0.73796
+eiskalt	4450.0	adj	Substanz	[kalt]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.6	0.2783	0.0	0.0	0.0	0.57617
+eiskalt	4450.0	adj	Substanz	[kalt]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.6	0.2783	0.0	0.0	0.0	0.52048
+eiskalt	4450.0	adj	Substanz	[kalt]	finster	3022.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.54591
+eiskalt	4450.0	adj	Substanz	[kalt]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.55	0.2437	0.0	0.0	0.0	0.57991
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.6	0.2783	0.2	0.15814	0.32944	0.67812
+eiskalt	4450.0	adj	Substanz	[kalt]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.5	0.21239	0.0	0.0	0.0	0.52007
+eiskalt					d�ster										
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	grausam	704.0	adj	Gefuehl	[peinigend]	0.7	0.36085	0.25	0.15814	0.33957	0.69244
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.6	0.2783	0.0	0.0	0.0	0.55664
+eiskalt	4450.0	adj	Substanz	[kalt]	grausam	704.0	adj	Gefuehl	[peinigend]	0.6	0.2783	0.0	0.0	0.0	0.53439
+eiskalt	4450.0	adj	Substanz	[kalt]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.6	0.2783	0.0	0.0	0.0	0.55673
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.65	0.31699	0.22222	0.15814	0.29813	0.6277
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.55	0.2437	0.0	0.0	0.0	0.46085
+eiskalt	4450.0	adj	Substanz	[kalt]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.55	0.2437	0.0	0.0	0.0	0.46965
+eiskalt	4450.0	adj	Substanz	[kalt]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.55	0.2437	0.0	0.0	0.0	0.46094
+eiskalt					gr��lich										
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	dumpf	108344.0	adj	Relation	[unklar]	0.55	0.2437	0.0	0.0	0.0	0.50716
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.51694
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.7	0.36085	0.25	0.15814	0.3224	0.66763
+eiskalt	108556.0	adj	Gefuehl	[fühllos, gefühllos, gefühlsarm, gefühlskalt]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.50726
+eiskalt	4450.0	adj	Substanz	[kalt]	dumpf	108344.0	adj	Relation	[unklar]	0.55	0.2437	0.0	0.0	0.0	0.50725
+eiskalt	4450.0	adj	Substanz	[kalt]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.51703
+eiskalt	4450.0	adj	Substanz	[kalt]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.6	0.2783	0.0	0.0	0.0	0.50958
+eiskalt	4450.0	adj	Substanz	[kalt]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.50735
+eiskalt					gl�hend										
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.75	0.41148	0.28571	0.15814	0.3531	0.71028
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	0.7	0.36085	0.25	0.15814	0.35311	0.71029
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.65	0.31699	0.0	0.0	0.0	0.53899
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.65	0.31699	0.22222	0.15814	0.27923	0.59181
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.6	0.2783	0.0	0.0	0.0	0.539
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.6	0.2783	0.2	0.15814	0.27924	0.59182
+schrecklich					b�s										
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.6	0.2783	0.0	0.0	0.0	0.58729
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.7	0.36085	0.25	0.15814	0.36056	0.71954
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.85	0.54466	0.57143	0.19127	0.48109	0.79369
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.65	0.31699	0.22222	0.07656	0.18551	0.66387
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.65	0.31699	0.22222	0.15814	0.36057	0.71956
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.8	0.47137	0.5	0.19127	0.4811	0.79371
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.6	0.2783	0.0	0.0	0.0	0.58734
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.8	0.47137	0.6	0.28106	0.60011	0.81271
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	finster	3022.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.55708
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.75	0.41148	0.44444	0.19127	0.46774	0.78235
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.85	0.54466	0.66667	0.22136	0.53645	0.80872
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.85	0.54466	0.72727	0.29948	0.63946	0.83114
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	finster	3022.0	adj	Perzeption	[dunkel]	0.5	0.21239	0.0	0.0	0.0	0.55709
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.7	0.36085	0.4	0.19127	0.46775	0.78236
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.8	0.47137	0.6	0.28106	0.59958	0.8123
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.85	0.54466	0.72727	0.29948	0.6389	0.83073
+schrecklich					d�ster										
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	grausam	704.0	adj	Gefuehl	[peinigend]	0.8	0.47137	0.5	0.19127	0.42088	0.73682
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.6	0.2783	0.0	0.0	0.0	0.5679
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	grausam	704.0	adj	Gefuehl	[peinigend]	0.75	0.41148	0.44444	0.19127	0.4209	0.73684
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.8	0.47137	0.6	0.22136	0.51231	0.78928
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.85	0.54466	0.66667	0.28106	0.54135	0.76188
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.55	0.2437	0.0	0.0	0.0	0.4721
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.9	0.63915	0.8	0.29948	0.57685	0.78031
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.8	0.47137	0.6	0.22136	0.41934	0.69348
+schrecklich					gr��lich										
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	dumpf	108344.0	adj	Relation	[unklar]	0.55	0.2437	0.0	0.0	0.0	0.51842
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.5282
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.8	0.47137	0.5	0.19127	0.39909	0.71201
+schrecklich	107140.0	adj	Gefuehl	[unangenehm]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.51851
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	dumpf	108344.0	adj	Relation	[unklar]	0.5	0.21239	0.0	0.0	0.0	0.51843
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.52821
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.75	0.41148	0.44444	0.19127	0.3991	0.71202
+schrecklich	805.0	adj	Gefuehl	[schlimm] , [beängstigend]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.55	0.2437	0.0	0.0	0.0	0.51853
+schrecklich					gl�hend										
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	0.7	0.36085	0.0	0.0	0.0	0.53805
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	0.8	0.47137	0.5	0.19055	0.3359	0.62327
+begierig					b�s										
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.65	0.31699	0.0	0.0	0.0	0.58635
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.85	0.54466	0.57143	0.19055	0.43352	0.75101
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.8	0.47137	0.33333	0.15814	0.39682	0.75962
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.65	0.31699	0.0	0.0	0.0	0.5864
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.65	0.31699	0.22222	0.15814	0.33697	0.68885
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	finster	3022.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.55614
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.7	0.36085	0.25	0.15814	0.38583	0.74828
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.65	0.31699	0.22222	0.15814	0.33668	0.68844
+begierig					d�ster										
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	grausam	704.0	adj	Gefuehl	[peinigend]	0.75	0.41148	0.28571	0.15814	0.34726	0.70275
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.65	0.31699	0.0	0.0	0.0	0.56696
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.7	0.36085	0.25	0.15814	0.30404	0.63801
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.6	0.2783	0.0	0.0	0.0	0.47116
+begierig					gr��lich										
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	dumpf	108344.0	adj	Relation	[unklar]	0.6	0.2783	0.0	0.0	0.0	0.51748
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.65	0.31699	0.0	0.0	0.0	0.52726
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.75	0.41148	0.28571	0.15814	0.32932	0.67794
+begierig	1806.0	adj	Gefuehl	[Gefühl empfindend]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.65	0.31699	0.0	0.0	0.0	0.51757
+begierig					gl�hend										
+gedankenvoll					b�s										
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.65	0.31699	0.0	0.0	0.0	0.5732
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.65	0.31699	0.0	0.0	0.0	0.54731
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.7	0.36085	0.0	0.0	0.0	0.58833
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	seltsam	367.0	adj	Allgemein	[sonderbar]	0.55	0.2437	0.0	0.0	0.0	0.46788
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	seltsam	650.0	adj	Gefuehl	[verwirrt]	0.75	0.41148	0.44444	0.19055	0.34148	0.63254
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	0.7	0.36085	0.25	0.15814	0.30588	0.64115
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.65	0.31699	0.0	0.0	0.0	0.57325
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.65	0.31699	0.0	0.0	0.0	0.51756
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	finster	3022.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.54299
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.6	0.2783	0.0	0.0	0.0	0.57698
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.55	0.2437	0.0	0.0	0.0	0.46792
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.55	0.2437	0.18182	0.15814	0.26905	0.57037
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	finster	3022.0	adj	Perzeption	[dunkel]	0.5	0.21239	0.0	0.0	0.0	0.43766
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.6	0.2783	0.2	0.15814	0.29931	0.6298
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.55	0.2437	0.0	0.0	0.0	0.51715
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.55	0.2437	0.18182	0.15814	0.26886	0.56996
+gedankenvoll					d�ster										
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	grausam	704.0	adj	Gefuehl	[peinigend]	0.65	0.31699	0.0	0.0	0.0	0.53146
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.85	0.54466	0.57143	0.13271	0.29742	0.68651
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	grausam	704.0	adj	Gefuehl	[peinigend]	0.65	0.31699	0.22222	0.15814	0.27557	0.58428
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.55	0.2437	0.0	0.0	0.0	0.44848
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.6	0.2783	0.0	0.0	0.0	0.46672
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.6	0.2783	0.0	0.0	0.0	0.45801
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.6	0.2783	0.2	0.15814	0.24763	0.51954
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.5	0.21239	0.0	0.0	0.0	0.35269
+gedankenvoll					gr��lich										
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	dumpf	108344.0	adj	Relation	[unklar]	0.6	0.2783	0.0	0.0	0.0	0.50433
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.65	0.31699	0.0	0.0	0.0	0.5141
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.65	0.31699	0.0	0.0	0.0	0.50665
+gedankenvoll	548.0	adj	Verhalten	[charakterspezifisch]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.65	0.31699	0.0	0.0	0.0	0.50442
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	dumpf	108344.0	adj	Relation	[unklar]	0.5	0.21239	0.0	0.0	0.0	0.399
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.40878
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.65	0.31699	0.22222	0.15814	0.26415	0.55947
+gedankenvoll	549.0	adj	Gefuehl	[deprimiert, elegisch, melancholisch, schwermütig]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.55	0.2437	0.0	0.0	0.0	0.39909
+gedankenvoll					gl�hend										
+b�s					seltsam										
+b�s					finster										
+b�s					grauenvoll										
+b�s					d�ster										
+b�s					grausam										
+b�s					schauerlich										
+b�s					gr��lich										
+b�s					dumpf										
+b�s					gl�hend										
+seltsam	367.0	adj	Allgemein	[sonderbar]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.7	0.36085	0.25	0.07656	0.2023	0.69811
+seltsam	367.0	adj	Allgemein	[sonderbar]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.6	0.2783	0.0	0.0	0.0	0.56586
+seltsam	367.0	adj	Allgemein	[sonderbar]	finster	3022.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.59129
+seltsam	367.0	adj	Allgemein	[sonderbar]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.55	0.2437	0.0	0.0	0.0	0.62529
+seltsam	650.0	adj	Gefuehl	[verwirrt]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.6	0.2783	0.0	0.0	0.0	0.59566
+seltsam	650.0	adj	Gefuehl	[verwirrt]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.6	0.2783	0.2	0.15814	0.34376	0.69811
+seltsam	650.0	adj	Gefuehl	[verwirrt]	finster	3022.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.5654
+seltsam	650.0	adj	Gefuehl	[verwirrt]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.65	0.31699	0.22222	0.15814	0.39475	0.75754
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	finster	96494.0	adj	Allgemein	[negativ, schlecht]	0.65	0.31699	0.0	0.0	0.0	0.63668
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	0.75	0.41148	0.44444	0.19127	0.45648	0.77226
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	finster	3022.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.60642
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	finster	96492.0	adj	Gefuehl	[trüb, trübe]	0.8	0.47137	0.5	0.19127	0.53192	0.83169
+seltsam	367.0	adj	Allgemein	[sonderbar]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.5	0.21239	0.0	0.0	0.0	0.56545
+seltsam	650.0	adj	Gefuehl	[verwirrt]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.6	0.2783	0.2	0.15814	0.34345	0.6977
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.75	0.41148	0.44444	0.19127	0.45603	0.77185
+seltsam					d�ster										
+seltsam	367.0	adj	Allgemein	[sonderbar]	grausam	704.0	adj	Gefuehl	[peinigend]	0.6	0.2783	0.0	0.0	0.0	0.57977
+seltsam	367.0	adj	Allgemein	[sonderbar]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.65	0.31699	0.22222	0.07656	0.19241	0.67867
+seltsam	650.0	adj	Gefuehl	[verwirrt]	grausam	704.0	adj	Gefuehl	[peinigend]	0.7	0.36085	0.25	0.15814	0.35447	0.71202
+seltsam	650.0	adj	Gefuehl	[verwirrt]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.6	0.2783	0.0	0.0	0.0	0.57622
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	grausam	704.0	adj	Gefuehl	[peinigend]	0.85	0.54466	0.57143	0.19127	0.47215	0.78617
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.65	0.31699	0.0	0.0	0.0	0.61724
+seltsam	367.0	adj	Allgemein	[sonderbar]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.55	0.2437	0.0	0.0	0.0	0.51503
+seltsam	367.0	adj	Allgemein	[sonderbar]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.65	0.31699	0.22222	0.07656	0.15508	0.58287
+seltsam	650.0	adj	Gefuehl	[verwirrt]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.65	0.31699	0.22222	0.15814	0.30955	0.64728
+seltsam	650.0	adj	Gefuehl	[verwirrt]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.55	0.2437	0.0	0.0	0.0	0.48042
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.8	0.47137	0.5	0.19127	0.40709	0.72143
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.6	0.2783	0.0	0.0	0.0	0.52144
+seltsam					gr��lich										
+seltsam	367.0	adj	Allgemein	[sonderbar]	dumpf	108344.0	adj	Relation	[unklar]	0.55	0.2437	0.0	0.0	0.0	0.55263
+seltsam	367.0	adj	Allgemein	[sonderbar]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.56241
+seltsam	367.0	adj	Allgemein	[sonderbar]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.6	0.2783	0.0	0.0	0.0	0.55495
+seltsam	367.0	adj	Allgemein	[sonderbar]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.55272
+seltsam	650.0	adj	Gefuehl	[verwirrt]	dumpf	108344.0	adj	Relation	[unklar]	0.55	0.2437	0.0	0.0	0.0	0.52674
+seltsam	650.0	adj	Gefuehl	[verwirrt]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.53652
+seltsam	650.0	adj	Gefuehl	[verwirrt]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.7	0.36085	0.25	0.15814	0.3358	0.6872
+seltsam	650.0	adj	Gefuehl	[verwirrt]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.52683
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	dumpf	108344.0	adj	Relation	[unklar]	0.6	0.2783	0.0	0.0	0.0	0.56776
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.65	0.31699	0.0	0.0	0.0	0.57754
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.85	0.54466	0.57143	0.19127	0.4449	0.76135
+seltsam	821.0	adj	Gefuehl	[Gefühl erweckend]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.65	0.31699	0.0	0.0	0.0	0.56785
+seltsam					gl�hend										
+finster	96494.0	adj	Allgemein	[negativ, schlecht]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.5	0.21239	0.0	0.0	0.0	0.5655
+finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.8	0.47137	0.66667	0.29948	0.61094	0.80929
+finster	3022.0	adj	Perzeption	[dunkel]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.45	0.18381	0.0	0.0	0.0	0.53524
+finster	96492.0	adj	Gefuehl	[trüb, trübe]	grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	0.65	0.31699	0.36364	0.19127	0.44402	0.7605
+finster					d�ster										
+finster	96494.0	adj	Allgemein	[negativ, schlecht]	grausam	704.0	adj	Gefuehl	[peinigend]	0.6	0.2783	0.0	0.0	0.0	0.57981
+finster	96494.0	adj	Allgemein	[negativ, schlecht]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.85	0.54466	0.66667	0.22136	0.55641	0.82352
+finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	grausam	704.0	adj	Gefuehl	[peinigend]	0.7	0.36085	0.4	0.19127	0.40193	0.71539
+finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.6	0.2783	0.0	0.0	0.0	0.54647
+finster	3022.0	adj	Perzeption	[dunkel]	grausam	704.0	adj	Gefuehl	[peinigend]	0.55	0.2437	0.0	0.0	0.0	0.54955
+finster	3022.0	adj	Perzeption	[dunkel]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.55	0.2437	0.0	0.0	0.0	0.5719
+finster	96492.0	adj	Gefuehl	[trüb, trübe]	grausam	704.0	adj	Gefuehl	[peinigend]	0.75	0.41148	0.44444	0.19127	0.45928	0.77482
+finster	96492.0	adj	Gefuehl	[trüb, trübe]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.55	0.2437	0.0	0.0	0.0	0.6059
+finster	96494.0	adj	Allgemein	[negativ, schlecht]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.55	0.2437	0.0	0.0	0.0	0.51507
+finster	96494.0	adj	Allgemein	[negativ, schlecht]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.85	0.54466	0.66667	0.22136	0.44843	0.72772
+finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.85	0.54466	0.72727	0.29948	0.55396	0.75887
+finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.55	0.2437	0.0	0.0	0.0	0.45067
+finster	3022.0	adj	Perzeption	[dunkel]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.5	0.21239	0.0	0.0	0.0	0.48481
+finster	3022.0	adj	Perzeption	[dunkel]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.5	0.21239	0.0	0.0	0.0	0.4761
+finster	96492.0	adj	Gefuehl	[trüb, trübe]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.7	0.36085	0.4	0.19127	0.39749	0.71008
+finster	96492.0	adj	Gefuehl	[trüb, trübe]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.5	0.21239	0.0	0.0	0.0	0.5101
+finster					gr��lich										
+finster	96494.0	adj	Allgemein	[negativ, schlecht]	dumpf	108344.0	adj	Relation	[unklar]	0.55	0.2437	0.0	0.0	0.0	0.55268
+finster	96494.0	adj	Allgemein	[negativ, schlecht]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.56245
+finster	96494.0	adj	Allgemein	[negativ, schlecht]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.6	0.2783	0.0	0.0	0.0	0.555
+finster	96494.0	adj	Allgemein	[negativ, schlecht]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.55277
+finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	dumpf	108344.0	adj	Relation	[unklar]	0.65	0.31699	0.22222	0.08318	0.16536	0.58017
+finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.50676
+finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.7	0.36085	0.4	0.19127	0.38201	0.69058
+finster	96493.0	adj	Relation	[ungeheuer, unheimlich] , [ungewiss, ungewiß]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.49708
+finster	3022.0	adj	Perzeption	[dunkel]	dumpf	108344.0	adj	Relation	[unklar]	0.5	0.21239	0.0	0.0	0.0	0.52242
+finster	3022.0	adj	Perzeption	[dunkel]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.65	0.31699	0.22222	0.1853	0.39611	0.7175
+finster	3022.0	adj	Perzeption	[dunkel]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.55	0.2437	0.0	0.0	0.0	0.52474
+finster	3022.0	adj	Perzeption	[dunkel]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.65	0.31699	0.22222	0.1853	0.38807	0.70781
+finster	96492.0	adj	Gefuehl	[trüb, trübe]	dumpf	108344.0	adj	Relation	[unklar]	0.5	0.21239	0.0	0.0	0.0	0.55642
+finster	96492.0	adj	Gefuehl	[trüb, trübe]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.56619
+finster	96492.0	adj	Gefuehl	[trüb, trübe]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.75	0.41148	0.44444	0.19127	0.43346	0.75001
+finster	96492.0	adj	Gefuehl	[trüb, trübe]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.55	0.2437	0.0	0.0	0.0	0.55651
+finster					gl�hend										
+grauenvoll					d�ster										
+grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	grausam	704.0	adj	Gefuehl	[peinigend]	0.7	0.36085	0.4	0.19127	0.40158	0.71498
+grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	0.5	0.21239	0.0	0.0	0.0	0.54606
+grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.85	0.54466	0.72727	0.29948	0.55354	0.75846
+grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.45	0.18381	0.0	0.0	0.0	0.45026
+grauenvoll					gr��lich										
+grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	dumpf	108344.0	adj	Relation	[unklar]	0.45	0.18381	0.0	0.0	0.0	0.49658
+grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.5	0.21239	0.0	0.0	0.0	0.50635
+grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.7	0.36085	0.4	0.19127	0.38169	0.69017
+grauenvoll	814.0	adj	Gefuehl	[Grauen erregend, grauenerregend]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.5	0.21239	0.0	0.0	0.0	0.49667
+grauenvoll					gl�hend										
+d�ster					grausam										
+d�ster					schauerlich										
+d�ster					gr��lich										
+d�ster					dumpf										
+d�ster					gl�hend										
+grausam	704.0	adj	Gefuehl	[peinigend]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.75	0.41148	0.44444	0.19127	0.36314	0.66456
+grausam	704.0	adj	Gefuehl	[peinigend]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.55	0.2437	0.0	0.0	0.0	0.46458
+grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	schauerlich	799.0	adj	Gefuehl	[beängstigend]	0.55	0.2437	0.0	0.0	0.0	0.49563
+grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	schauerlich	96289.0	adj	Allgemein	[bös, böse]	0.8	0.47137	0.6	0.22136	0.43144	0.70828
+grausam					gr��lich										
+grausam	704.0	adj	Gefuehl	[peinigend]	dumpf	108344.0	adj	Relation	[unklar]	0.55	0.2437	0.0	0.0	0.0	0.51089
+grausam	704.0	adj	Gefuehl	[peinigend]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.52067
+grausam	704.0	adj	Gefuehl	[peinigend]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.8	0.47137	0.5	0.19127	0.39292	0.70448
+grausam	704.0	adj	Gefuehl	[peinigend]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.51098
+grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	dumpf	108344.0	adj	Relation	[unklar]	0.55	0.2437	0.0	0.0	0.0	0.53324
+grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.6	0.2783	0.0	0.0	0.0	0.54301
+grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.6	0.2783	0.0	0.0	0.0	0.53556
+grausam	4557.0	adj	Verhalten	[brutal, gewalttätig]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.6	0.2783	0.0	0.0	0.0	0.53333
+grausam					gl�hend										
+schauerlich					gr��lich										
+schauerlich	799.0	adj	Gefuehl	[beängstigend]	dumpf	108344.0	adj	Relation	[unklar]	0.5	0.21239	0.0	0.0	0.0	0.44615
+schauerlich	799.0	adj	Gefuehl	[beängstigend]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.45593
+schauerlich	799.0	adj	Gefuehl	[beängstigend]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.75	0.41148	0.44444	0.19127	0.3468	0.63975
+schauerlich	799.0	adj	Gefuehl	[beängstigend]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.55	0.2437	0.0	0.0	0.0	0.44625
+schauerlich	96289.0	adj	Allgemein	[bös, böse]	dumpf	108344.0	adj	Relation	[unklar]	0.5	0.21239	0.0	0.0	0.0	0.43744
+schauerlich	96289.0	adj	Allgemein	[bös, böse]	dumpf	3150.0	adj	Perzeption	[dunkel]	0.55	0.2437	0.0	0.0	0.0	0.44722
+schauerlich	96289.0	adj	Allgemein	[bös, böse]	dumpf	107490.0	adj	Gefuehl	[langweilig, uninteressant]	0.55	0.2437	0.0	0.0	0.0	0.43976
+schauerlich	96289.0	adj	Allgemein	[bös, böse]	dumpf	108346.0	adj	Perzeption	[miefig, moderig, modrig, muffig]	0.55	0.2437	0.0	0.0	0.0	0.43753
+schauerlich					gl�hend										
+gr��lich					dumpf										
+gr��lich					gl�hend										
+dumpf					gl�hend										
